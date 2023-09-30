@@ -6,4 +6,5 @@ public class PrintingStatements
       System.out.print("This is the second message.");
       System.out.print("This is the third message?");
    }
+      System.out.println("Hello! I am learning Java.");
 }
